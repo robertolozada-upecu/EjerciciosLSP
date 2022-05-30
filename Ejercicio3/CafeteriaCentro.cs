@@ -1,6 +1,6 @@
 namespace EjerciciosLSP.Ejercicio3
 {
-    public class CafeteriaCentro : ServicioDomicilio
+    public class CafeteriaCentro : Cafeteria, IServicioDomicilio
     {
         public string ServicioDomicilio()
         {

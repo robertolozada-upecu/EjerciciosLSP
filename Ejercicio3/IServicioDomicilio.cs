@@ -1,6 +1,6 @@
 ﻿namespace EjerciciosLSP.Ejercicio3
 {
-    public interface ServicioDomicilio
+    public interface IServicioDomicilio
     {
         string ServicioDomicilio();
     }
